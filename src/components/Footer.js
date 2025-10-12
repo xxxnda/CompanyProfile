@@ -44,8 +44,8 @@ const Footer = () => {
                 <FaMapMarkerAlt className="text-green-400 mr-3 mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-green-100">
-                    Nama Jalan<br />
-                    Daerah<br />
+                    Jl. Buyut Kaswa, Ranji Kulon, Kec.Kasokandel<br />
+                    Kabupaten Majalengka, Jawa Barat 45453<br />
                     Indonesia
                   </p>
                 </div>
@@ -63,10 +63,10 @@ const Footer = () => {
                 <FaEnvelope className="text-green-400 mr-3" />
                 <div>
                   <a 
-                    href="mailto:info@email.com" 
+                    href="mailto:Pt.biolatunggalmandiri@gmail.com" 
                     className="text-green-100 hover:text-white transition-colors duration-200"
                   >
-                    info@email.com
+                    Pt.biolatunggalmandiri@gmail.com
                   </a>
                   <p className="text-sm text-green-200">Response within 24 hours</p>
                 </div>
