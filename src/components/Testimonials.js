@@ -207,7 +207,7 @@ const Testimonials = () => {
             Ready to experience the quality that makes our customers satisfied?
           </p>
           <a 
-            href="https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20becoming%20a%20customer%20of%20PT.%20Biola%20Tunggal%20Mandiri.%20Could%20you%20explain%20your%20products%20and%20services?"
+            href="https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20dengan%20produk%20ekspor%20Anda.%20Mohon%20kirimkan%20katalog%20dan%20daftar%20harga."
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg font-semibold transition-colors duration-200 inline-block shadow-lg hover:shadow-xl transform hover:-translate-y-1"

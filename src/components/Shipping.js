@@ -109,7 +109,7 @@ const Shipping = () => {
               Contact us now and experience our premium products with reliable delivery service.
             </p>
             <a 
-              href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20know%20more%20about%20the%20shipping%20services%20of%20PT.%20Biola%20Tunggal%20Mandiri."
+              href="https://wa.me/6281111818690?text=Halo,%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20layanan%20pengiriman%20PT.%20Biola%20Tunggal%20Mandiri."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white py-3 px-8 rounded-lg font-semibold transition-colors duration-200"

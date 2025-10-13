@@ -65,7 +65,7 @@ const Hero = () => {
                       </p>
                       <div className="flex flex-col sm:flex-row gap-4">
                         <a
-                          href="https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20your%20export%20products."
+                          href="https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20dengan%20produk%20ekspor%20Anda.%20Mohon%20kirimkan%20katalog%20dan%20daftar%20harga."
                           target="_blank"
                           rel="noopener noreferrer"
                           className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-200 text-center shadow-lg hover:shadow-xl transform hover:-translate-y-1"

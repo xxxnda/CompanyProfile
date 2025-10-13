@@ -156,7 +156,7 @@ const ProductGallery = () => {
                 <p className="text-gray-600 mb-4">{item.description}</p>
                 
                 <a 
-                  href={`https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20${item.title}%20from%20PT.%20Biola%20Tunggal%20Mandiri.`}
+                  href={`https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20dengan%20${item.title}%20dari%20PT.%20Biola%20Tunggal%20Mandiri.`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center text-green-600 hover:text-green-800 font-semibold transition-colors duration-200"

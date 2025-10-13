@@ -24,7 +24,7 @@ const WhatsAppButton = () => {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent(
-      "Hello! I am interested in the export products of PT. Biola Tunggal Mandiri. Please provide more information about pricing, specifications, and export procedures."
+      "Halo! Saya tertarik dengan produk ekspor PT. Biola Tunggal Mandiri. Mohon berikan informasi lebih lanjut tentang harga, spesifikasi, dan prosedur ekspor."
     );
     window.open(`https://wa.me/6281111818690?text=${message}`, '_blank');
   };

@@ -52,7 +52,7 @@ const Header = () => {
           {/* Professional Action Buttons */}
           <div className="flex items-center space-x-3">
             <a 
-              href="https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20your%20export%20products.%20Please%20send%20me%20your%20catalog%20and%20pricing."
+              href="https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20dengan%20produk%20ekspor%20Anda.%20Mohon%20kirimkan%20katalog%20dan%20daftar%20harga."
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white px-6 py-3 rounded-lg flex items-center transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 font-semibold"

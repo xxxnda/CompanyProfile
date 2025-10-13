@@ -78,7 +78,7 @@ const Footer = () => {
                     rel="noopener noreferrer"
                     className="text-green-100 hover:text-white transition-colors duration-200"
                   >
-                    +62 821 2968 6224
+                    +62 811 1181 8690  
                   </a>
                   <p className="text-sm text-green-200">Available 24/7</p>
                 </div>
@@ -95,7 +95,7 @@ const Footer = () => {
               <h4 className="font-semibold mb-3 text-green-200">Quick Actions</h4>
               <div className="space-y-2">
                 <a 
-                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20place%20an%20order."
+                  href="https://wa.me/6281111818690?text=Halo,%20saya%20ingin%20melakukan%20pemesanan."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -103,7 +103,7 @@ const Footer = () => {
                   • Place an Order
                 </a>
                 <a 
-                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20request%20a%20price%20quote."
+                  href="https://wa.me/6281111818690?text=Halo,%20saya%20ingin%20meminta%20penawaran%20harga."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -111,7 +111,7 @@ const Footer = () => {
                   • Request Price Quote
                 </a>
                 <a 
-                  href="https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20a%20partnership."
+                  href="https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20untuk%20kerjasama."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -119,7 +119,7 @@ const Footer = () => {
                   • Partnership Inquiry
                 </a>
                 <a 
-                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20know%20more%20about%20your%20products."
+                  href="https://wa.me/6281111818690?text=Halo,%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20produk%20Anda."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"

@@ -117,7 +117,7 @@ const Products = () => {
                 {/* Professional Action Buttons */}
                 <div className="flex flex-col space-y-3">
                   <a 
-                    href={`https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20importing%20${product.name}%20from%20PT.%20Biola%20Tunggal%20Mandiri.%20Please%20provide%20export%20pricing%20and%20specifications.`}
+                    href={`https://wa.me/6281111818690?text=Halo,%20saya%20tertarik%20untuk%20mengimpor%20${product.name}%20dari%20PT.%20Biola%20Tunggal%20Mandiri.%20Mohon%20berikan%20harga%20ekspor%20dan%20spesifikasinya.`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white py-4 px-6 rounded-xl font-bold transition-all duration-300 text-center shadow-lg hover:shadow-xl transform hover:-translate-y-1"
@@ -178,7 +178,7 @@ const Products = () => {
             
             <div className="text-center mt-12">
               <a 
-                href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20discuss%20bulk%20export%20orders%20and%20partnership%20opportunities%20with%20PT.%20Biola%20Tunggal%20Mandiri."
+                href="https://wa.me/6281111818690?text=Halo,%20saya%20ingin%20diskusi%20tentang%20pesanan%20ekspor%20dalam%20jumlah%20besar%20dan%20peluang%20kerjasama%20dengan%20PT.%20Biola%20Tunggal%20Mandiri."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center bg-white text-green-800 px-8 py-4 rounded-xl font-bold text-lg hover:bg-gray-100 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:-translate-y-1"
