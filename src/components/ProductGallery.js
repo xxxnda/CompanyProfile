@@ -70,7 +70,7 @@ const ProductGallery = () => {
     {
       id: 10,
       category: 'Areca Nut',
-      image: '/assets/images/pinang%20(1).png',
+      image: '/assets/images/pinang%20(3).png',
       title: 'Premium Areca Nut',
       description: 'High-quality areca nuts, carefully selected for export and local use.'
     },
