@@ -31,7 +31,7 @@ const Products = () => {
       name: 'Areca Nut',
       title: 'Premium Areca Nut',
       description: 'High-quality areca nuts sourced from the finest plantations. Our areca nuts are carefully selected and processed to ensure optimal quality for traditional and commercial use.',
-      image: '/assets/images/pinang%20(1).png',
+      image: '/assets/images/pinang%20(3).png',
       features: ['Premium grade', 'Sun-dried', 'Natural processing', 'Traditional quality']
     }
   ];
