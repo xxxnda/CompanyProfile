@@ -6,70 +6,91 @@ const ProductGallery = () => {
   const galleryItems = [
     {
       id: 1,
-      category: 'Kemiri',
+      category: 'Candlenut',
       image: '/assets/images/kemiri%20(1).png',
-      title: 'Premium Kemiri Grade A',
-      description: 'Hand-selected kemiri nuts with exceptional quality'
+      title: 'Premium Candlenut Grade A',
+      description: 'Hand-selected candlenuts with exceptional quality.'
     },
     {
       id: 2,
-      category: 'Kemiri',
+      category: 'Candlenut',
       image: '/assets/images/kemiri%20(2).png',
-      title: 'Organic Kemiri',
-      description: 'Organically grown kemiri from sustainable farms'
+      title: 'Organic Candlenut',
+      description: 'Organically grown candlenut from sustainable farms.'
     },
     {
       id: 3,
-      category: 'Kemiri',
+      category: 'Candlenut',
       image: '/assets/images/kemiri%20(3).png',
-      title: 'Traditional Kemiri',
-      description: 'Traditionally processed kemiri with authentic flavor'
+      title: 'Traditional Candlenut',
+      description: 'Traditionally processed candlenut with authentic flavor.'
     },
     {
       id: 4,
-      category: 'Kacang Mete',
+      category: 'Cashew Nut',
       image: '/assets/images/mete%20(1).png',
-      title: 'Premium Cashews',
-      description: 'Grade A cashew nuts with superior taste'
+      title: 'Premium Cashew Nut',
+      description: 'Grade A cashew nuts with superior taste.'
     },
     {
       id: 5,
-      category: 'Kacang Mete',
+      category: 'Cashew Nut',
       image: '/assets/images/mete%20(2).png',
-      title: 'Roasted Cashews',
-      description: 'Perfectly roasted cashews with rich flavor'
+      title: 'Roasted Cashew Nut',
+      description: 'Perfectly roasted cashew nuts with rich flavor.'
     },
     {
       id: 6,
-      category: 'Kacang Mete',
+      category: 'Cashew Nut',
       image: '/assets/images/mete%20(3).png',
-      title: 'Export Quality Cashews',
-      description: 'International standard cashew nuts'
+      title: 'Export Quality Cashew Nut',
+      description: 'International standard cashew nuts.'
     },
     {
       id: 7,
-      category: 'Kopi',
+      category: 'Coffee',
       image: '/assets/images/kopi%20(1).png',
       title: 'Arabica Coffee Beans',
-      description: 'Premium arabica beans with rich aroma'
+      description: 'Premium arabica beans with rich aroma.'
     },
     {
       id: 8,
-      category: 'Kopi',
+      category: 'Coffee',
       image: '/assets/images/kopi%20(2).png',
       title: 'Single Origin Coffee',
-      description: 'Specialty single origin coffee beans'
+      description: 'Specialty single origin coffee beans.'
     },
     {
       id: 9,
-      category: 'Kopi',
+      category: 'Coffee',
       image: '/assets/images/kopi%20(3).png',
       title: 'Traditional Roast',
-      description: 'Traditionally roasted coffee with authentic taste'
+      description: 'Traditionally roasted coffee with authentic taste.'
+    },
+    {
+      id: 10,
+      category: 'Areca Nut',
+      image: '/assets/images/pinang%20(1).png',
+      title: 'Premium Areca Nut',
+      description: 'High-quality areca nuts, carefully selected for export and local use.'
+    },
+    {
+      id: 11,
+      category: 'Areca Nut',
+      image: '/assets/images/pinang%20(2).png',
+      title: 'Sun-dried Areca Nut',
+      description: 'Naturally sun-dried areca nuts for optimal quality.'
+    },
+    {
+      id: 12,
+      category: 'Areca Nut',
+      image: '/assets/images/pinang%20(3).png',
+      title: 'Traditional Areca Nut',
+      description: 'Traditionally processed areca nuts for commercial and traditional use.'
     }
   ];
 
-  const filterCategories = ['All', 'Kemiri', 'Kacang Mete', 'Kopi'];
+  const filterCategories = ['All', 'Candlenut', 'Cashew Nut', 'Coffee', 'Areca Nut'];
 
   const filteredItems = activeFilter === 'All' 
     ? galleryItems 
@@ -135,7 +156,7 @@ const ProductGallery = () => {
                 <p className="text-gray-600 mb-4">{item.description}</p>
                 
                 <a 
-                  href={`https://wa.me/6282129686224?text=Halo,%20saya%20tertarik%20dengan%20${item.title}%20dari%20PT.%20Biola%20Tunggal%20Mandiri`}
+                  href={`https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20${item.title}%20from%20PT.%20Biola%20Tunggal%20Mandiri.`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center text-green-600 hover:text-green-800 font-semibold transition-colors duration-200"

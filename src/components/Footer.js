@@ -21,17 +21,14 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-green-100 mb-6 leading-relaxed">
-              Committed to sustainable agriculture and delivering premium quality Kemiri, 
-              Kacang Mete, and Kopi. We bridge traditional farming methods with modern 
-              quality standards, ensuring our products meet both local and international expectations.
+              Committed to sustainable agriculture and delivering premium quality Candlenut, Cashew Nut, Coffee, and Areca Nut. We bridge traditional farming methods with modern quality standards, ensuring our products meet both local and international expectations.
             </p>
             
             {/* Sustainability Message */}
             <div className="bg-green-700 p-4 rounded-lg">
               <h4 className="font-semibold mb-2 text-green-100">Our Commitment</h4>
               <p className="text-sm text-green-200">
-                "Preserving our earth for future generations through sustainable farming 
-                practices while delivering uncompromising quality."
+                "Preserving our earth for future generations through sustainable farming practices while delivering uncompromising quality."
               </p>
             </div>
           </div>
@@ -44,8 +41,8 @@ const Footer = () => {
                 <FaMapMarkerAlt className="text-green-400 mr-3 mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-green-100">
-                    Jl. Buyut Kaswa, Ranji Kulon, Kec.Kasokandel<br />
-                    Kabupaten Majalengka, Jawa Barat 45453<br />
+                    Jl. Buyut Kaswa, Ranji Kulon, Kasokandel District<br />
+                    Majalengka Regency, West Java 45453<br />
                     Indonesia
                   </p>
                 </div>
@@ -54,7 +51,7 @@ const Footer = () => {
               <div className="flex items-center">
                 <FaPhone className="text-green-400 mr-3" />
                 <div>
-                  <p className="text-green-100">+62821 2968 6224</p>
+                  <p className="text-green-100">6281111818690</p>
                   <p className="text-sm text-green-200">Mon-Fri: 8:00 AM - 5:00 PM</p>
                 </div>
               </div>
@@ -76,7 +73,7 @@ const Footer = () => {
                 <FaWhatsapp className="text-green-400 mr-3" />
                 <div>
                   <a 
-                    href="https://wa.me/6282129686224" 
+                    href="https://wa.me/6281111818690" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-green-100 hover:text-white transition-colors duration-200"
@@ -98,7 +95,7 @@ const Footer = () => {
               <h4 className="font-semibold mb-3 text-green-200">Quick Actions</h4>
               <div className="space-y-2">
                 <a 
-                  href="https://wa.me/6282129686224?text=Halo,%20saya%20ingin%20memesan%20produk"
+                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20place%20an%20order."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -106,7 +103,7 @@ const Footer = () => {
                   • Place an Order
                 </a>
                 <a 
-                  href="https://wa.me/6282129686224?text=Halo,%20saya%20ingin%20bertanya%20tentang%20harga"
+                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20request%20a%20price%20quote."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -114,7 +111,7 @@ const Footer = () => {
                   • Request Price Quote
                 </a>
                 <a 
-                  href="https://wa.me/6282129686224?text=Halo,%20saya%20tertarik%20untuk%20kerjasama"
+                  href="https://wa.me/6281111818690?text=Hello,%20I%20am%20interested%20in%20a%20partnership."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
@@ -122,7 +119,7 @@ const Footer = () => {
                   • Partnership Inquiry
                 </a>
                 <a 
-                  href="https://wa.me/6282129686224?text=Halo,%20saya%20ingin%20bertanya%20tentang%20produk"
+                  href="https://wa.me/6281111818690?text=Hello,%20I%20would%20like%20to%20know%20more%20about%20your%20products."
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-green-100 hover:text-white transition-colors duration-200 text-sm"
