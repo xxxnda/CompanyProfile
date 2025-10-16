@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaWhatsapp, FaEnvelope, FaPhone, FaMapMarkerAlt, FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaWhatsapp, FaEnvelope, FaPhone, FaMapMarkerAlt} from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -130,35 +130,7 @@ const Footer = () => {
             </div>
 
             {/* Social Media */}
-            <div>
-              <h4 className="font-semibold mb-3 text-green-200">Follow Us</h4>
-              <div className="flex space-x-4">
-                <a 
-                  href="https://facebook.com/" 
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-green-400 hover:text-white transition-colors duration-200 text-xl"
-                >
-                  <FaFacebook />
-                </a>
-                <a 
-                  href="https://instagram.com/" 
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-green-400 hover:text-white transition-colors duration-200 text-xl"
-                >
-                  <FaInstagram />
-                </a>
-                <a 
-                  href="https://linkedin.com/" 
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-green-400 hover:text-white transition-colors duration-200 text-xl"
-                >
-                  <FaLinkedin />
-                </a>
-              </div>
-            </div>
+            
           </div>
         </div>
 
